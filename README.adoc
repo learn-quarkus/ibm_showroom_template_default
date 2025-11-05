@@ -9,7 +9,7 @@ This git repo template was created to make it easy for you to start developing y
 Features:
 
 . 0% cruft
-. Red Hat Demo Platform UI Bundle default
+. IBM Tech Zone UI Bundle default
 . Dev Mode extension that displays the asciidoc attributes you have to work with
 . Content is generated using Antora, a static site generator for creating documentation sites from AsciiDoc documents.
 
@@ -83,8 +83,8 @@ You can add links to external content in the convenient "Links" drop-down on the
 asciidoc:
   attributes:
     page-links:
-    - url: https://redhat.com
-      text: Red Hat
+    - url: https://techzone.ibm.com
+      text: IBM Tech Zone
 ----
 
 image::.images/ui-links.png[]
