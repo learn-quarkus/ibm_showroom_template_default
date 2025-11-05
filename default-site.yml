@@ -11,7 +11,7 @@ content:
 
 ui:
   bundle:
-    url: https://github.com/learn-quarkus/ibm_showroom_theme/releases/download/v1.0/ui-bundle.zip
+    url: https://github.com/itz-showroom/ibm_showroom_theme/releases/download/v1.0/ui-bundle.zip
     snapshot: true
   supplemental_files:
     - path: ./content/supplemental-ui
